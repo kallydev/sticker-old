@@ -8,7 +8,7 @@ https://github.com/kallydev/sticker/raw/master/Doge.zip
 
 #### Kizuna-AI
 ```
-https://github.com/kallydev/sticker/blob/master/Kizuna-AI.zip
+https://github.com/kallydev/sticker/raw/master/Kizuna-AI.zip
 ```
 
 #### Menhera-chan
@@ -48,7 +48,7 @@ https://github.com/kallydev/sticker/raw/master/%E5%95%86%E4%B8%9A%E5%A4%B4%E7%9B
 
 #### 嗷大喵
 ```
-https://github.com/kallydev/sticker/blob/master/%E5%97%B7%E5%A4%A7%E5%96%B5.zip
+https://github.com/kallydev/sticker/raw/master/%E5%97%B7%E5%A4%A7%E5%96%B5.zip
 ```
 
 #### 嘤嘤怪
@@ -123,5 +123,5 @@ https://github.com/kallydev/sticker/raw/master/%E8%B4%B4%E5%90%A7%E5%B0%8F%E8%A1
 
 #### 酷安小表情
 ```
-https://github.com/kallydev/sticker/blob/master/%E9%85%B7%E5%AE%89%E5%B0%8F%E8%A1%A8%E6%83%85.zip
+https://github.com/kallydev/sticker/raw/master/%E9%85%B7%E5%AE%89%E5%B0%8F%E8%A1%A8%E6%83%85.zip
 ```
